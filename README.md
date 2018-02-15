@@ -1,6 +1,6 @@
-# DockerFileExamples
+# Exemplos de dockerfile
 
-Exemplos de dockerfile
+Exemplos de teste e modelos para uso no dia a dia
 
 * **DockerFile-NginxDebianStretch** - DockerFile criado a partir do repositório oficial do nginx. Cria uma imagem com base no Debian Stretch (mainline do nginx) e instala o servidor.
 * **Sample2** - Extende a imagem oficial do nginx e adiciona um arquivo .html.
